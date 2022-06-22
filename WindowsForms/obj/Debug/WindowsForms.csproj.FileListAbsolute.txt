@@ -1,0 +1,17 @@
+C:\Users\Lenovo Z500\Desktop\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Lenovo Z500\Desktop\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Lenovo Z500\Desktop\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.frmLogin.resources
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.frmItem.resources
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.FrmList.resources
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.frmTSell.resources
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.frmTBuy.resources
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.frmReceiptBuy.resources
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.frmReceiptSell.resources
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.Main.resources
+C:\Users\Lenovo Z500\Desktop\WindowsForms\obj\Debug\WindowsForms.frmCo.resources
